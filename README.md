@@ -1,8 +1,8 @@
-### Hi there, this is Alberto Ursino 👋:earth_africa:
+### Hi there, this is Alberto Ursino 👋
 
 A passionate developer from Italy.
 
-- 🔭 I’m currently working on a lot of code
+- 🔭 I’m currently working with a lot of code
 - 🤖 I’m currently learning AI and Robotics
 - 📫 How to reach me: albertoursino98@gmail.com
 

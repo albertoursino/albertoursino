@@ -4,7 +4,6 @@ A passionate developer from Italy.
 
 - 🔭 I’m currently working with a lot of code
 - 🤖 I’m currently learning AI and Robotics
-- 📫 How to reach me: albertoursino98@gmail.com
 
 <!--- 
 - ⚡ Fun fact: ...

@@ -4,7 +4,7 @@ A passionate developer from Italy.
 
 - 📜 I have a bachelor's degree in computer engineering
 - 🔭 I’m currently working with a lot of code
-- 🤖 I’m currently learning AI and Robotics
+- 🤖 I’m currently doing a master in AI and Robotics
 
 <!--- 
 - ⚡ Fun fact: ...

@@ -6,6 +6,8 @@ A passionate developer from Italy.
 - 🔭 I’m currently working with a lot of code
 - 🤖 I’m currently doing a master in AI and Robotics
 
+![](https://komarev.com/ghpvc/?username=albertoursino)
+
 <!--- 
 - ⚡ Fun fact: ...
 - 😄 Pronouns: ...

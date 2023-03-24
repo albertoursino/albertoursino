@@ -1,6 +1,8 @@
-### Hi there, this is Alberto Ursino 👋
+## Hi there, this is Alberto Ursino 👋
 
 A passionate software developer from Italy.
+
+### Some insights
 
 - 💻 I'm currently studying **Computer Engineering - AI & Robotics**
 - :leaves: I'm doing a **Machine Learning Intern** at  [BlueBox by Swegon](https://www.blueboxcooling.com/it)

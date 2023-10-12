@@ -5,7 +5,6 @@ A passionate software developer from Italy.
 ### Some insights
 
 - 💻 I'm currently studying **Computer Engineering - AI & Robotics**
-- :leaves: I'm doing a **Machine Learning Intern** at  [BlueBox by Swegon](https://www.blueboxcooling.com/it)
 - :snake: Writing code is my passion, **Python** is my main programming language
 - :sparkles: Some of my most interesting works are in private/external repositories (contact me if you are curious)
 

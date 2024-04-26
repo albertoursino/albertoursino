@@ -10,9 +10,9 @@ A passionate software developer from Italy.
 
 ### Some cool websites
 
-- The best website for emojis -> https://emojidb.org/emoji-emojis 🔥
-- I learned geography thanks to -> https://www.sporcle.com/ 🧠
-- My favourite translator -> https://www.deepl.com/it/translator 🈂️
+- The best website for emojis → https://emojidb.org/emoji-emojis 🔥
+- I learned geography thanks to → https://www.sporcle.com/ 🧠
+- My favourite translator → https://www.deepl.com/it/translator 🈂️
 
 
 ![](https://komarev.com/ghpvc/?username=albertoursino&color=blueviolet&style=for-the-badge)

@@ -8,7 +8,8 @@ A passionate software developer from Italy.
 - 🐍 I love developing software using **Python**
 - ✨ Most of my **contributions** are in private/external projects (contact me if you are interested 😊)
 
-### Some cool website
+### Some cool websites
+
 - The best website for emojis -> https://emojidb.org/emoji-emojis 🔥
 - I learned geography thanks to -> https://www.sporcle.com/ 🧠
 - My favourite translator -> https://www.deepl.com/it/translator 🈂️

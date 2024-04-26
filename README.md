@@ -14,6 +14,7 @@ A passionate software developer from Italy.
 - I learned geography thanks to -> https://www.sporcle.com/ 🧠
 - My favourite translator -> https://www.deepl.com/it/translator 🈂️
 
+
 ![](https://komarev.com/ghpvc/?username=albertoursino&color=blueviolet&style=for-the-badge)
 
 <!--- 

@@ -5,7 +5,7 @@ A passionate software developer from Italy
 ### Some insights
 
 - 💻 Master graduated in **Computer Engineering - Artificial Intelligence & Robotics**
-- 🐍 I love developing software, especially using **Python**
+- 🐍 I love building software, especially with **Python**
 - ✨ Most of my **contributions** are in private/external projects (contact me if you are interested 😊)
 
 ### Some cool websites

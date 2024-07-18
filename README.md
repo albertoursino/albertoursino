@@ -1,6 +1,6 @@
 ## Hi there, this is Alberto Ursino 👋
 
-A passionate software developer from Italy
+A passionate software engineer from Italy
 
 ### Some insights
 

@@ -8,14 +8,12 @@ A passionate software engineer from Italy
 - 🐍 I love building software, especially with **Python**
 - ✨ Most of my **contributions** are in private/external projects (contact me if you are interested 😊)
 
-### Some cool websites I use
-
-- The best website for emojis → [EmojiDB](https://emojidb.org/emoji-emojis) 🔥
-- Wants to do some quiz? → [Sporcle](https://www.sporcle.com/) 🧠
-- My favourite translator → [DeepL](https://www.deepl.com/it/translator) 🈂️
+---
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=albertoursino&color=blueviolet&style=for-the-badge)
 
+</div>
 <!--- 
 emoji: https://www.webfx.com/tools/emoji-cheat-sheet/
 -->

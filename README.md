@@ -6,6 +6,7 @@ A passionate software engineer from Italy
 
 - 💻 Master graduated in **Computer Engineering - Artificial Intelligence & Robotics**
 - 🐍 I love writing code, especially with **Python**
+- 🥎 I cannot live without **sports**. I play tennis and football, and I also like cycling
 
 ---
 <div align="center">

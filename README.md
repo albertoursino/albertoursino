@@ -6,7 +6,8 @@ A passionate software engineer from Italy
 
 - 💻 Master graduated in **Computer Engineering - Artificial Intelligence & Robotics**
 - 🐍 I love writing code, especially with **Python**
-- 🥎 I cannot live without **sports**. I play tennis and football, and I also like cycling
+- 🧼 The code should be kept clean; that's why I use **[pre-commit](https://pre-commit.com/)** with **[Ruff](https://docs.astral.sh/ruff/)**
+- ⚡ Python environments should be easy to manage; that's why I use **[Poetry](https://python-poetry.org/)**
 
 ---
 <div align="center">

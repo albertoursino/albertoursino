@@ -1,8 +1,6 @@
 ## Hi there, this is Alberto Ursino 👋
 
-A passionate software engineer from Italy
-
-### Some insights of me
+*A passionate software engineer from Italy*
 
 - 💻 Master graduated in **Computer Engineering - Artificial Intelligence & Robotics**
 - 🐍 I love writing code, especially with **Python**

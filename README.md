@@ -3,7 +3,7 @@
 - 💻 Master graduated in **Computer Engineering - Artificial Intelligence & Robotics**
 - 🐍 **Python** is my main language
 - 🧼 I use **[pre-commit](https://pre-commit.com/)** to keep my code clean
-- ⚡ I use **[Poetry](https://python-poetry.org/)** to easily manage the Python environment
+- ⚡ I use **[Poetry](https://python-poetry.org/)** to easily manage my Python environment
 <!--- 
 ---
 <div align="center">

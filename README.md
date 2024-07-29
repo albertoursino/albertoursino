@@ -1,7 +1,7 @@
 ## Hi there, this is Alberto Ursino 👋
 
 - 💻 Master graduated in **Computer Engineering - Artificial Intelligence & Robotics**
-- 🐍 I love writing code, especially with **Python**
+- 🐍 **Python** is my main language
 - 🧼 The code should be kept clean; that's why I use **[pre-commit](https://pre-commit.com/)** with **[Ruff](https://docs.astral.sh/ruff/)**
 - ⚡ Python environments should be easy to manage; that's why I use **[Poetry](https://python-poetry.org/)**
 <!--- 

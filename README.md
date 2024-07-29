@@ -2,8 +2,8 @@
 
 - 💻 Master graduated in **Computer Engineering - Artificial Intelligence & Robotics**
 - 🐍 **Python** is my main language
-- 🧼 The code should be kept clean; that's why I use **[pre-commit](https://pre-commit.com/)** with **[Ruff](https://docs.astral.sh/ruff/)**
-- ⚡ Python environments should be easy to manage; that's why I use **[Poetry](https://python-poetry.org/)**
+- 🧼 I use **[pre-commit](https://pre-commit.com/)** to keep my code clean
+- ⚡ I use **[Poetry](https://python-poetry.org/)** to easily manage the Python environment
 <!--- 
 ---
 <div align="center">

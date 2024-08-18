@@ -1,6 +1,6 @@
 ## Hi there, this is Alberto Ursino 👋
 
-- 💻 Master graduated in **Computer Engineering - Artificial Intelligence & Robotics**
+- 💻 Master graduated in **Computer Engineering - AI & Robotics**
 - 🐍 **Python** is my main programming language
 - 🧼 I use **[pre-commit](https://pre-commit.com/)** to keep my code clean
 - ⚡ I use **[Poetry](https://python-poetry.org/)** to easily manage my Python environment

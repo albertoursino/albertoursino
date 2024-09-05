@@ -9,13 +9,7 @@
 
 <!---![](https://komarev.com/ghpvc/?username=albertoursino&color=blueviolet&style=for-the-badge)--->
 
-<a href="https://www.hackerrank.com/profile/albertoursino98" target="_blank">![](https://img.shields.io/badge/HackerRank-blue?logo=hackerrank)</a> <a href="https://leetcode.com/u/albertoursino/" target="_blank">![](https://img.shields.io/badge/LeetCode-red?logo=leetcode
+<a href="https://www.hackerrank.com/profile/albertoursino98">![](https://img.shields.io/badge/HackerRank-blue?logo=hackerrank)</a> <a href="https://leetcode.com/u/albertoursino/">![](https://img.shields.io/badge/LeetCode-red?logo=leetcode
 )</a>
 
 </div>
-<!--- 
----
-
-<!--- 
-emoji: https://www.webfx.com/tools/emoji-cheat-sheet/
--->

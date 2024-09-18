@@ -1,10 +1,12 @@
-## Hi there, this is Alberto Ursino 👋
 
 <!---
+## Hi there, this is Alberto Ursino 👋
+
+Currently searching for an open source project
+
 - 🐍 **Python** is my main programming language
 - 🧼 I use **[pre-commit](https://pre-commit.com/)**
 - ⚡ I use **[Poetry](https://python-poetry.org/)**
-
 
 <div align="center">
 

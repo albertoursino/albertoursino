@@ -1,6 +1,6 @@
 ## Hi there, this is Alberto Ursino 👋
 
-**Status**: searching for an **open-source project** on which to contribute actively, and a **job** in the field of Software Engineering
+**Status**: searching for an **open-source project** to which to contribute actively, and a **job** in the field of Software Engineering
 
 **My ideal job**: write Python code every day, and collaborate within a team of software developers to create something that have the potential to make a positive impact on the planet 🌍
 
@@ -9,7 +9,7 @@
 - 🐍 **Python** is my main programming language
 - 🧼 I use **[Ruff](https://github.com/astral-sh/ruff)** to keep my code clean
 - ⚡ I use **[Poetry](https://python-poetry.org/)** to easily manage my Python environment
-- 🎨 I love **tennis**, **videogames** and spending time with **friends**
+- 🎨 I love **tennis**, **video games** and spending time with **friends**
 
 <div align="center">
 

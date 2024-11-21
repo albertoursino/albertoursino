@@ -2,7 +2,7 @@
 
 I’m a passionate Software Engineer from Italy. 
 
-I enjoy sports, video games, spending time with friends, and I’ve recently developed an interest in the world of finance.
+I enjoy sports, video games, spending time with friends, and I’ve recently become passionate about finance.
 
 ## Coding style
 

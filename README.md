@@ -9,6 +9,6 @@ I enjoy sports, video games, spending time with friends, and I’ve recently dev
 - 🐍 **Python** is my primary programming language
 - 🧼 I use **[Ruff](https://github.com/astral-sh/ruff)** and [**Mypy**](https://github.com/python/mypy) to maintain clean, high-quality code
 - ⚡ I rely on **[Poetry](https://python-poetry.org/)** for an efficient Python environment management
-- ✨ A perfectionist and conventions enthusiast, I strictly follow [PEP 8](https://peps.python.org/pep-0008/) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
+- ✨ A perfectionist and conventions enthusiast, I strictly follow [PEP 8](https://peps.python.org/pep-0008/) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 I’m currently collaborating with three friends on a **C compiler project**. Check it out [here](https://github.com/d-u-d-e/c-compiler/tree/develop)!

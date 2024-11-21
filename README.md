@@ -1,22 +1,14 @@
-## Hi there, this is Alberto Ursino 👋
+# Hi there, this is Alberto Ursino 👋
 
-**Something about me**:
+I’m a passionate Software Engineer from Italy. 
 
-- 🐍 **Python** is my main programming language
-- 🧼 I use **[Ruff](https://github.com/astral-sh/ruff)** to keep my code clean
-- ⚡ I use **[Poetry](https://python-poetry.org/)** to easily manage my Python environment
-- 🎨 I love **tennis**, **video games** and spending time with **friends**
+I enjoy sports, video games, spending time with friends, and I’ve recently developed an interest in the world of finance.
 
-I'm currently writing a C compiler along with 3 friends, checkout our [project](https://github.com/d-u-d-e/c-compiler/tree/develop).
+## Coding style
 
-<div align="center">
+- 🐍 **Python** is my primary programming language
+- 🧼 I use **[Ruff](https://github.com/astral-sh/ruff)** and [**Mypy**](https://github.com/python/mypy) to maintain clean, high-quality code
+- ⚡ I rely on **[Poetry](https://python-poetry.org/)** for an efficient Python environment management
+- ✨ A perfectionist and conventions enthusiast, I strictly follow [PEP 8](https://peps.python.org/pep-0008/) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
-<!-- ![](https://komarev.com/ghpvc/?username=albertoursino&color=blueviolet&style=for-the-badge) -->
-
----
-
-I love coding, and I use these two platforms to keep my brain active:
-
-<a href="https://www.hackerrank.com/profile/albertoursino98">![](https://img.shields.io/badge/HackerRank-blue?logo=hackerrank)</a> <a href="https://leetcode.com/u/albertoursino/">![](https://img.shields.io/badge/LeetCode-red?logo=leetcode)</a>
-
-</div>
+I’m currently collaborating with three friends on a **C compiler project**. Check it out [here](https://github.com/d-u-d-e/c-compiler/tree/develop)!

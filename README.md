@@ -1,6 +1,6 @@
 # Hi there, this is Alberto Ursino 👋
 
-I’m a passionate *versatilist* Software Engineer from Italy.
+I’m a passionate, versatile software engineer from Italy.
 
 I enjoy sports, video games, spending time with friends, and I’ve recently become passionate about finance.
 

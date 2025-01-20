@@ -4,7 +4,7 @@ I’m a passionate, versatile software engineer from Italy. I'm actually working
 
 I enjoy sports, video games, spending time with friends, and I’ve recently become passionate about finance.
 
-## Coding style
+### 👩🏼‍💻 Coding style
 
 - 🐍 **Python** is my primary programming language
 - 🧼 I use **[Ruff](https://github.com/astral-sh/ruff)** and [**Mypy**](https://github.com/python/mypy) to maintain clean and high-quality code

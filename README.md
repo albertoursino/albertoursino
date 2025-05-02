@@ -1,6 +1,6 @@
 # Hi there, this is Alberto Ursino 👋
 
-I’m a passionate, **versatile software engineer** from Italy. I'm actually working as a **Data Science Specialist** @ KAI (by Infineon).
+I’m a passionate, **versatile Software Engineer** from Italy, working at @ KAI (by Infineon) in Villach, Austria.
 
 I enjoy sports, video games, spending time with friends, and I’ve recently become passionate about finance.
 

@@ -1,6 +1,6 @@
 # Hi there, this is Alberto Ursino 👋
 
-I’m a passionate, versatile **Software Engineer** from Italy, working at @ KAI (by Infineon) in Villach, Austria.
+I’m a passionate, versatile **Software Engineer** from Italy, working at @ **KAI** (by Infineon) in Villach, Austria.
 
 I love sports, videogames, and spending time with friends. I’ve recently become passionate about finance.
 

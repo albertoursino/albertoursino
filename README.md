@@ -10,4 +10,4 @@ I love sports, videogames, and spending time with friends. I’ve recently becom
 - 🧼 I use [**pre-commit**](https://pre-commit.com/) together with **[Ruff](https://github.com/astral-sh/ruff)** and [**Mypy**](https://github.com/python/mypy) to keep my code clean
 - ⚡ I use **[Poetry](https://python-poetry.org/)** for an efficient Python environment management
 - ✨ I'm a **perfectionist** and conventions enthusiast
-- 🤖 I focus on **automation**
+- 🤖 Passionate about streamlining workflows through **automation**

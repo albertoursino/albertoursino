@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-If you don't know what _technical debt_ is: https://vincentdnl.com/drawings/technical-debt/?l=en-US
+Unfortunately, I cannot be very active on here on GitHub because I develop code almost every day at work. During my free time, I prefer to do another stuff, like playing tennis 🥎
 
-Unfortunately, I cannot be very active here on GitHub because I make my main contributions at work. During my free time, I prefer to do something else, like playing tennis 🥎
+I'll leave you with this meme: https://vincentdnl.com/drawings/technical-debt/?l=en-US
+

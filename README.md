@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Unfortunately, I cannot be very active on here on GitHub because I develop code almost every day at work. During my free time, I prefer to do another stuff, like playing tennis 🥎
+I cannot be very active on GitHub because I write code almost every day at work; during my free time, I prefer to practice other hobbies, like playing tennis 🥎
 
 Technical debt definition: https://vincentdnl.com/drawings/technical-debt/?l=en-US
 
